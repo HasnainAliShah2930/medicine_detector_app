@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987711529122",
+    "project_id": "medicines-ab51d",
+    "storage_bucket": "medicines-ab51d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987711529122:android:9d5fdcc8da6de74ca7b7fb",
+        "android_client_info": {
+          "package_name": "com.example.medicen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE6__IRHEeIRqcF0og583oyCfGzyuxJIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987711529122:android:2413868a4d24080ba7b7fb",
+        "android_client_info": {
+          "package_name": "com.example.medicineapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE6__IRHEeIRqcF0og583oyCfGzyuxJIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
